@@ -2,350 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc8d3fd7-7593-4fad-b954-7201ce29d1e6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/PFRegalTextPro-Black.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/PFRegalTextPro-BlackItalic.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/PFRegalTextPro-Bold.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/PFRegalTextPro-BoldItalic.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/PFRegalTextPro-Medium.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/PFRegalTextPro-MediumItalic.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/PFRegalTextPro-RegA.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/PFRegalTextPro-RegAItalic.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/PFRegalTextPro-RegB.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/PFRegalTextPro-RegBItalic.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/PFRegalTextPro-UBlack.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/PFRegalTextPro-UBlackItalic.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/RegalText_Cyrillic2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/RegalText_Greek.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/RegalText_Latin2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/RegalText_Latin3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/RegalText_Latin4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/RegalText_quote.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/RegalText_quote2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/jquery/jquery-migrate.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/jquery/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/action.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/footer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/header.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo_031.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/access_log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/error_log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sections/top-news.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thumbnail/Screenshot107-260x300.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/thumbnail/Screenshot119.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/composer.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/cookie.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/file.ext" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/autoload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/examples/appengineauth.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/examples/batch.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/examples/fileupload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/examples/idtoken.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/examples/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/examples/multi-api.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/examples/service-account.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/examples/simple-query.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/examples/simplefileupload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/examples/styles/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/examples/templates/base.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/examples/user-example.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/phpunit.xml.dist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Auth/Abstract.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Auth/AppIdentity.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Auth/AssertionCredentials.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Auth/ComputeEngine.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Auth/Exception.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Auth/LoginTicket.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Auth/OAuth2.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Auth/Simple.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Cache/Abstract.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Cache/Apc.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Cache/Exception.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Cache/File.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Cache/Memcache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Cache/Null.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Client.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Collection.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Exception.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Http/Batch.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Http/CacheParser.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Http/MediaFileUpload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Http/REST.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Http/Request.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/IO/Abstract.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/IO/Curl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/IO/Exception.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/IO/Stream.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/IO/cacerts.pem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Logger/Abstract.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Logger/Exception.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Logger/File.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Logger/Null.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Logger/Psr.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Model.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/AdExchangeBuyer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/AdExchangeSeller.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/AdSense.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/AdSenseHost.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Admin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Analytics.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/AndroidEnterprise.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/AndroidPublisher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/AppState.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Appsactivity.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Audit.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Autoscaler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Bigquery.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Blogger.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Books.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Calendar.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/CivicInfo.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Classroom.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/CloudMonitoring.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/CloudUserAccounts.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Cloudlatencytest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Cloudresourcemanager.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Cloudsearch.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Compute.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Computeaccounts.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Container.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Coordinate.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Customsearch.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Dataflow.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Datastore.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/DeploymentManager.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Dfareporting.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Directory.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Dns.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/DoubleClickBidManager.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Doubleclicksearch.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Drive.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Exception.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Fitness.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Freebase.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Fusiontables.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Games.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/GamesConfiguration.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/GamesManagement.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Genomics.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Gmail.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/GroupsMigration.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Groupssettings.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/IdentityToolkit.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Licensing.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Logging.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Manager.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/MapsEngine.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Mirror.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Oauth2.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Pagespeedonline.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Playmoviespartner.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Plus.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/PlusDomains.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Prediction.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Pubsub.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/QPXExpress.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Replicapool.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Replicapoolupdater.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Reports.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Reseller.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Resource.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Resourceviews.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/SQLAdmin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/ShoppingContent.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/SiteVerification.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Spectrum.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Storage.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/TagManager.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Taskqueue.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Tasks.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Translate.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Urlshortener.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Webfonts.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/Webmasters.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/YouTube.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Service/YouTubeAnalytics.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Signer/Abstract.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Signer/P12.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Task/Exception.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Task/Retryable.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Task/Runner.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Utils.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Utils/URITemplate.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Verifier/Abstract.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/Verifier/Pem.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/src/Google/autoload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/style/ruleset.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/BaseTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/OAuthHelper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/adsense/AdSenseTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/general/ApiBatchRequestTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/general/ApiCacheParserTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/general/ApiClientTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/general/ApiMediaFileUploadTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/general/ApiModelTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/general/ApiOAuth2Test.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/general/AuthTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/general/CacheTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/general/ComputeEngineAuthTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/general/Http/BatchTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/general/Http/RequestTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/general/IoTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/general/LoggerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/general/RequestTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/general/ResourceTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/general/RestTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/general/ServiceTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/general/TaskTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/general/URITemplateTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/general/testdata/cacert.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/general/testdata/cacert.pem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/general/testdata/cert.p12" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/general/testdata/privkey.pem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/general/testdata/service-12345.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/general/testdata/service-rsa-12345.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/general/testdata/test.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/general/testdata/test_public_key.pem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/pagespeed/PageSpeedTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/plus/PlusTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/tasks/TasksTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/urlshortener/UrlShortenerTests.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/google-api-php-client-master/tests/youtube/YouTubeTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/arhitector/yandex/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/arhitector/yandex/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/arhitector/yandex/DataContainer/Container.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/arhitector/yandex/DataContainer/ContainerTrait.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/arhitector/yandex/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/arhitector/yandex/Yandex/CiperTrait.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/arhitector/yandex/Yandex/Client.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/arhitector/yandex/Yandex/Disk.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/arhitector/yandex/Yandex/Disk/FilterTrait.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/arhitector/yandex/Yandex/Disk/Resource.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/arhitector/yandex/Yandex/Disk/ResourceList.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/arhitector/yandex/Yandex/Disk/ResourcePublish.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/arhitector/yandex/Yandex/Disk/ResourceTrash.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/arhitector/yandex/Yandex/Exception/AlreadyExistsException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/arhitector/yandex/Yandex/Exception/ForbiddenException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/arhitector/yandex/Yandex/Exception/NotFoundException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/arhitector/yandex/Yandex/Exception/OutOfSpace.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/arhitector/yandex/Yandex/Exception/UnauthorizedException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/arhitector/yandex/Yandex/Exception/UnsupportedException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/arhitector/yandex/Yandex/Request.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/arhitector/yandex/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/autoload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/composer/ClassLoader.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/composer/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/composer/autoload_classmap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/composer/autoload_namespaces.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/composer/autoload_psr4.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/composer/autoload_real.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/composer/installed.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/docs/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/docs/Gemfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/docs/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/docs/build.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/docs/config.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/docs/nginx/default" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/docs/nginx/default_reverse_proxy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/docs/source/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/docs/source/css/reset.css.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/docs/source/css/syntax.css.scss.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/docs/source/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/docs/source/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/docs/source/js/all.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/docs/source/js/jquery.tocify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/docs/source/js/toc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/docs/source/layouts/layout.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/docs/watch.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/coinbase_account_balance.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/coinbase_spot_rate.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/deviant_art_rss.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/domainr_search_domain_name_availability.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/download_file.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/download_file_with_callback.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/flickr.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/flickr_photo_search.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/flickr_upload_photo.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/github_create_gist.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/gmail_send_email.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/google_maps_geocode_address.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/google_plus_profile.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/gratipay_send_tip.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/instagram_popular_media.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/instagram_search_photos.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/mailchimp_subscribe_email_address.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/multi_curl_delete.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/multi_curl_download.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/multi_curl_download_with_callback.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/multi_curl_get.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/multi_curl_get_callbacks.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/multi_curl_patch.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/multi_curl_post.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/multi_curl_put.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/post.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/post_json.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/progress.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/progress_advanced.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/put.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/reddit_top_pics.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/set_url_1.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/set_url_2.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/twitter_post_tweet.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/twitter_trending_topics.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/upload_file.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/youtube_list_playlist_videos.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/examples/youtube_video_count.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/scripts/bump_major_version.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/scripts/bump_minor_version.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/scripts/bump_patch_version.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/src/Curl/Curl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/src/Curl/MultiCurl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/tests/PHPCurlClass/Helper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/tests/PHPCurlClass/PHPCurlClassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/tests/PHPCurlClass/PHPMultiCurlClassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/tests/PHPCurlClass/server.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/tests/before_script.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/tests/check_syntax.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/tests/phpunit.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/tests/run.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/php-curl-class/php-curl-class/tests/script.sh" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/autoload.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="test-site.my.iws" />
@@ -367,7 +24,18 @@
     <favorites_list name="test-site.my" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="autoload.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/autoload.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -384,6 +52,8 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/autoload.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -452,6 +122,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../test3.my" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -489,12 +160,18 @@
       <option name="project" value="LOCAL" />
       <updated>1449692582433</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test site for google api">
+      <created>1449693047927</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1449693047927</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1279" height="736" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32919255" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -504,7 +181,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25383994" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25383994" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -531,36 +208,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/thumbnail/Screenshot107-260x300.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thumbnail/Screenshot119.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/footer.php">
+    <entry file="file://$PROJECT_DIR$/autoload.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08443272">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
           <folding />
         </state>
       </provider>
